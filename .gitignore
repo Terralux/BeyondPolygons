@@ -1,0 +1,41 @@
+# =============== #
+# Unity generated #
+# =============== #
+Beyond Polygons/[Tt]emp/
+Beyond Polygons/[Oo]bj/
+Beyond Polygons/[Bb]uilds/
+Beyond Polygons/[Ll]ibrary/
+Beyond Polygons/[Ll]ibrary_ANDROID/
+Beyond Polygons/[Ll]ibrary_PC/
+Beyond Polygons/[Ll]ibrary_IOS/
+Beyond Polygons/sysinfo.txt
+Beyond Polygons/UnityVS/
+Beyond Polygons/UnityVS.meta
+Beyond Polygons/LightingData*
+Beyond Polygons/ReflectionProbe*
+Beyond Polygons/Assets/Scenes/Personal Scenes*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+Beyond Polygons/[Ee]xported[Oo]bj/
+Beyond Polygons/*.userprefs
+Beyond Polygons/*.csproj
+Beyond Polygons/*.pidb
+Beyond Polygons/*.suo
+Beyond Polygons/*.sln*
+Beyond Polygons/*.user
+Beyond Polygons/*.unityproj
+Beyond Polygons/*.booproj
+
+# ============
+# OS generated
+# ============
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta
